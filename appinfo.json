@@ -1,0 +1,48 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "Pebble",
+    "longName": "watch2",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/lantre_du_caniche.ttf",
+                "name": "FONT_CANICHE_18",
+                "type": "font"
+            },
+            {
+                "file": "fonts/lantre_du_caniche.ttf",
+                "name": "FONT_CANICHE_24",
+                "type": "font"
+            },
+            {
+                "file": "fonts/lantre_du_caniche.ttf",
+                "name": "FONT_CANICHE_36",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "watch2",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "16232b09-6a98-46e7-b69e-28e621369ef2",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
